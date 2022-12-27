@@ -16,7 +16,10 @@ class Github extends StatelessWidget {
         child: Container(
           child: Column(
             children: [
-              Text("welcome To GITHUB",style: TextStyle(fontWeight: FontWeight.w800,color: Colors.green,fontSize: 40),)
+              Text("welcome To GITHUB",style: TextStyle(fontWeight: FontWeight.w800,color: Colors.green,fontSize: 40),),
+              Text("second comment GITHUB",style: TextStyle(fontWeight: FontWeight.w800,color: Colors.green,fontSize: 40),),
+
+
             ],
           ),
         ),
