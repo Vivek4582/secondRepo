@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:untitled/core/pages.dart';
 import 'package:untitled/core/routes.dart';
-
+//this is for changes
 void main()async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
